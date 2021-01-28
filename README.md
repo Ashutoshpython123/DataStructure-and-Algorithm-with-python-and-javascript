@@ -1,1 +1,1 @@
-# DataStructure-and-Algorithm-with-pythoin-and-javascript
+# DataStructure-and-Algorithm-with-python-and-javascript
